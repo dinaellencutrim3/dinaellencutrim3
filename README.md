@@ -85,23 +85,23 @@ Me chamo Dinaellen Mendonça cutrim, tenho 21 anos e sou natural do Maranhão. C
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <br/>
-<br/>
+<br/>### 📊 Estatísticas
 
-### 📊 Estatísticas & Principais idiomas
-<p align="left">
+<p align="center">
   <img 
-    alt="GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api?username=dinaellencutrim3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400&locale=pt-BR" 
-    height="180"
-  />
-  <img 
-    alt="Top Languages" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinaellencutrim3&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=86400&locale=pt-BR" 
-    height="180"
-  />
-  <img 
-    alt="GitHub Streak" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=dinaellencutrim3&theme=tokyonight&locale=pt-BR" 
-    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=dinaellencutrim3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-BR" 
+    height="170"
   />
 </p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinaellencutrim3&layout=compact&theme=tokyonight&langs_count=8&locale=pt-BR" 
+    height="170"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=dinaellencutrim3&theme=tokyonight&locale=pt-BR" 
+    height="170"
+  />
+</p>
+
