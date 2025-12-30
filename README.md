@@ -87,18 +87,21 @@ Me chamo Dinaellen Mendonça cutrim, tenho 21 anos e sou natural do Maranhão. C
 <br/>
 <br/>
 
-### 📊 Estatísticas
-<p>
-<img 
-    align="left" 
+### 📊 Estatísticas & Principais idiomas
+<p align="left">
+  <img 
     alt="GitHub Stats" 
-    height="200"
     src="https://github-readme-stats.vercel.app/api?username=dinaellencutrim3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400&locale=pt-BR" 
-/>
-<img 
-    align="left" 
+    height="180"
+  />
+  <img 
     alt="Top Languages" 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=dinaellencutrim3&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400&locale=pt-BR" 
-/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinaellencutrim3&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=86400&locale=pt-BR" 
+    height="180"
+  />
+  <img 
+    alt="GitHub Streak" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=dinaellencutrim3&theme=tokyonight&locale=pt-BR" 
+    height="180"
+  />
 </p>
