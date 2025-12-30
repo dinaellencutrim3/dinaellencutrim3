@@ -33,15 +33,7 @@ Me chamo Dinaellen Mendonça cutrim, tenho 21 anos e sou natural do Maranhão. C
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
-
-<img
-    align="left" 
-    alt="AWS"
-    title="AWS" 
-    width="30px" 
-    style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+         
 
 <img 
     align="left" 
@@ -51,6 +43,7 @@ Me chamo Dinaellen Mendonça cutrim, tenho 21 anos e sou natural do Maranhão. C
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Bootstrap"
