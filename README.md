@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Dinaellen Mendonça cutrim, tenho 21 anos e sou natural do Maranhão. Concluí o ensino médio no IEMA, e cursei ctécnico em  Analise e Desenvolvimento de Sistemas no IFMA. Atualmente, estou cursando Engenharia de Computação na Universidade CEUMA. Sou apaixonada por tecnologia e compartilho meu conhecimento através do GitHub e Linkedin "[Dinaellen Cutrim](https://www.linkedin.com/in/dinaellen-cutrim-09a6642a7)"onde crio projetos web, e também através do Instagram, com o perfil chamado "[Dinaellen cutrim](https://www.instagram.com/ellen.rodrigues3?igsh=ejE1cnc2Z3dlYzRi)".
+Me chamo Dinaellen Mendonça cutrim, tenho 21 anos e sou natural do Maranhão. Concluí o ensino médio no IEMA, e cursei ctécnico em  Analise e Desenvolvimento de Sistemas no IFMA. Atualmente, estou cursando Engenharia de Computação na Universidade CEUMA. Sou apaixonada por tecnologia e compartilho meu conhecimento através do GitHub"[DinaellenCutrim3](https://github.com/dinaellencutrim3)" e Linkedin "[Dinaellen Cutrim](https://www.linkedin.com/in/dinaellen-cutrim-09a6642a7)"onde crio projetos web, e também através do Instagram, com o perfil chamado "[Dinaellen cutrim](https://www.instagram.com/ellen.rodrigues3?igsh=ejE1cnc2Z3dlYzRi)".
 
 
 
